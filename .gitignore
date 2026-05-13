@@ -1,0 +1,13 @@
+# Raw data
+data/raw/
+
+# Large processed files
+data/processed/cleaned_data.csv
+data/processed/customer_product_matrix.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
