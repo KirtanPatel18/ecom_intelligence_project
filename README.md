@@ -256,7 +256,7 @@ App opens at: `http://localhost:8501`
 ## 👤 About
 
 **Name:** Kirtan Patel
-**LinkedIn:** [*(add your LinkedIn URL)](https://www.linkedin.com/in/kirtan-patel-kp22143kp20/)*
+**LinkedIn:** [*LinkedIn](https://www.linkedin.com/in/kirtan-patel-kp22143kp20/)*
 **Email:** *kirtanpatel0888@gmail.com*
 **Location:** Surat, Gujarat, India
 
