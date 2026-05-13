@@ -4,4 +4,4 @@ scikit-learn
 streamlit
 plotly
 imbalanced-learn
-openpyxl
+openpyxl 
